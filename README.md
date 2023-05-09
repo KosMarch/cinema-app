@@ -1,7 +1,7 @@
 ﻿<img src="https://user-images.githubusercontent.com/115244741/237032461-3b2f1f9c-98b6-4756-8240-bc5974c83330.png" width="300" height="300">
  
  # 🎬 CINEMA APP
-Cinema App is a simple web application built using standard Spring and Hibernate frameworks. It allows users to view information about cinema halls, films, screenings and book tickets. There is also an administrator role that has the right to manage the application. The programme is easy to use and offers a wide range of functionality.
+Cinema App is a simple web application built using standard Spring and Hibernate frameworks. It allows users to view information about cinema halls, films, screenings and book tickets. There is also an administrator role that has the right to manage the application. The program is easy to use and offers a wide range of functionality.
 
 
 ## ⚙ Features 
@@ -42,6 +42,14 @@ Cinema App is a simple web application built using standard Spring and Hibernate
 
 <img src="https://user-images.githubusercontent.com/115244741/237047897-81d4117f-3b3a-4fe6-ae75-795990ece54e.png" width="700" height="500">
 
+## 💾 Getting Started
+-  Clone the project repository to your local machine.
+-  Configure the database connection parameters in the `resources/db.properties` file.
+-  Set up a local Tomcat configuration in your IDE.
+-  Run the Tomcat configuration and deploy the application.
+-  Access the application using the specified URL.
+-  Use the provided credentials to test the application's functionalities.
+
 ## 🚀 Used technologies
 - Java 17
 - Apache Maven
@@ -53,3 +61,5 @@ Cinema App is a simple web application built using standard Spring and Hibernate
     - Web Mvc
     - Security
 
+### Author
+[Kostiantyn Marchenko](https://github.com/KosMarch)
